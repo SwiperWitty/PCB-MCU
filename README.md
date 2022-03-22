@@ -34,7 +34,7 @@ Cavendish-ESP	V1.0
 
 <img src="https://s2.loli.net/2022/03/22/neqAiRkw6jcSWQ7.png" alt="image-20220322150443813" style="zoom:30%;" />
 
+# other：
 
-other：
-PCB-C51
+## PCB-C51
 
