@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=CH_TXD Pin=J1-19
+Removed Pin From Net: NetName=CH_RXD Pin=J1-21
+Removed Pin From Net: NetName=CH_RXD Pin=MCU1-53
+Removed Pin From Net: NetName=CH_TXD Pin=MCU1-54
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Added Component: Designator=R4(RESC_0603_2)
+Added Pin To Net: NetName=CH_TXD Pin=J1-23
+Added Pin To Net: NetName=CH_RXD Pin=J1-25
+Added Pin To Net: NetName=CH_RXD Pin=MCU1-51
+Added Pin To Net: NetName=CH_TXD Pin=MCU1-52
+Added Pin To Net: NetName=VDD Pin=R4-1
+Added Pin To Net: NetName=D+ Pin=R4-2
+Change Net Name : Old Net Name=GPIO0 New Net Name=PC00
+Change Net Name : Old Net Name=GPIO1 New Net Name=PC01
+Change Net Name : Old Net Name=GPIO2 New Net Name=PC02
+Change Net Name : Old Net Name=GPIO3 New Net Name=PC03
+Change Net Name : Old Net Name=NetR6_2 New Net Name=NetR7_2
+Added Pin To Net: NetName=PC12 Pin=J1-21
+Added Pin To Net: NetName=PC12 Pin=MCU1-53
+Added Net: Name=PC12
+Added Pin To Net: NetName=PD02 Pin=J1-19
+Added Pin To Net: NetName=PD02 Pin=MCU1-54
+Added Net: Name=PD02
+Added Member To Class: ClassName=Sheet Member=Component R8 4.7K
+Added Room: Name=Sheet
