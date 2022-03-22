@@ -1,0 +1,20 @@
+Added Component: Designator=COM1(USB-Type-C_16A)
+Added Pin To Net: NetName=GND Pin=COM1-1
+Added Pin To Net: NetName=GND Pin=COM1-1
+Added Pin To Net: NetName=GND Pin=COM1-1
+Added Pin To Net: NetName=GND Pin=COM1-1
+Added Pin To Net: NetName=GND Pin=COM1-A1
+Added Pin To Net: NetName=VBUS Pin=COM1-A4
+Added Pin To Net: NetName=CC1 Pin=COM1-A5
+Added Pin To Net: NetName=D+ Pin=COM1-A6
+Added Pin To Net: NetName=D- Pin=COM1-A7
+Added Pin To Net: NetName=VBUS Pin=COM1-A9
+Added Pin To Net: NetName=GND Pin=COM1-A12
+Added Pin To Net: NetName=GND Pin=COM1-B1
+Added Pin To Net: NetName=VBUS Pin=COM1-B4
+Added Pin To Net: NetName=CC2 Pin=COM1-B5
+Added Pin To Net: NetName=D+ Pin=COM1-B6
+Added Pin To Net: NetName=D- Pin=COM1-B7
+Added Pin To Net: NetName=VBUS Pin=COM1-B9
+Added Pin To Net: NetName=GND Pin=COM1-B12
+Added Member To Class: ClassName=Sheet Member=Component COM1 Type-C

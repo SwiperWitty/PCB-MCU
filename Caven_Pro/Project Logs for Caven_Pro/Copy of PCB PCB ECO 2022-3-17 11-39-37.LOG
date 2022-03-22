@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=C3 Old Footprint=CAP_3528_B New Footprint=CAP_3216_A
+Change Component Footprint: Designator=C4 Old Footprint=CAP_3528_B New Footprint=CAP_3216_A
+Change Component Comment : Designator=C3 Old Comment=22UF New Comment=100UF
+Change Component Comment : Designator=C4 Old Comment=22UF New Comment=100UF
+Added Room: Name=Sheet

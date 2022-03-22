@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=VDD Pin=J£¿1-1
+Removed Pin From Net: NetName=SWDIO Pin=J£¿1-2
+Removed Pin From Net: NetName=SWCLK Pin=J£¿1-3
+Removed Pin From Net: NetName=GND Pin=J£¿1-4
+Removed Member From Class: ClassName=MCU Member=J£¿1
+Added Component: Designator=J1(XH2.54-WS-4P)
+Added Pin To Net: NetName=VDD Pin=J1-1
+Added Pin To Net: NetName=SWDIO Pin=J1-2
+Added Pin To Net: NetName=SWCLK Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Member To Class: ClassName=MCU Member=Component J1 P4
+Added Room: Name=MCU

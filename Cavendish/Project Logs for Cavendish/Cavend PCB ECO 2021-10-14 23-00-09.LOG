@@ -1,0 +1,15 @@
+Added Member To Class: ClassName=MCU Member=Component C1 10PF
+Added Member To Class: ClassName=MCU Member=Component C2 10PF
+Added Member To Class: ClassName=MCU Member=Component C3 100NF
+Added Member To Class: ClassName=MCU Member=Component C6 10UF
+Added Member To Class: ClassName=MCU Member=Component C7 100NF
+Added Member To Class: ClassName=MCU Member=Component C8 100UF
+Added Member To Class: ClassName=MCU Member=Component C9 100NF
+Added Member To Class: ClassName=MCU Member=Component C10 100NF
+Added Member To Class: ClassName=MCU Member=Component C13 4.7uF
+Added Member To Class: ClassName=MCU Member=Component R2 2K
+Added Member To Class: ClassName=MCU Member=Component R4 22R
+Added Member To Class: ClassName=MCU Member=Component R6 2K
+Added Member To Class: ClassName=MCU Member=Component R7 20R
+Added Member To Class: ClassName=MCU Member=Component R8 4.7K
+Added Room: Name=MCU

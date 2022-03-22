@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=J1-0
+Removed Pin From Net: NetName=GND Pin=J1-0
+Removed Pin From Net: NetName=SDA_2 Pin=J3-3
+Removed Pin From Net: NetName=SCL_2 Pin=J3-4
+Removed Pin From Net: NetName=BOOT1 Pin=J3-5
+Removed Pin From Net: NetName=A4988_STEP Pin=J3-6
+Removed Pin From Net: NetName=A4988_DIR Pin=J3-7
+Added Pin To Net: NetName=SDA_2 Pin=J3-5
+Added Pin To Net: NetName=SCL_2 Pin=J3-6
+Added Pin To Net: NetName=BOOT1 Pin=J3-7
+Added Pin To Net: NetName=A4988_STEP Pin=J3-8
+Added Pin To Net: NetName=A4988_DIR Pin=J3-9
+Added Room: Name=MCU

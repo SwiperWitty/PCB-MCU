@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=U3 Old Footprint=SOP16 New Footprint=SOIC_16
+Change Component Comment : Designator=U3 Old Comment=CH340 New Comment=CH340C
+Change component parameters: Designator = "U3" ("U3"); Footprint = "SOP16"; UniqueID = "\UHFCCMLG" ("\UHFCCMLG")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "WCH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "CH340C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Paste Type"; Value = "recommend"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C84681"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "CH340C"; VariantName = "[No Variations]"
+Added Room: Name=hardware

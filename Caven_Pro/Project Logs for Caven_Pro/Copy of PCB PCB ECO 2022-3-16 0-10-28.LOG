@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=U1-1
+Removed Pin From Net: NetName=VDD Pin=U1-2
+Change Component Footprint: Designator=U1 Old Footprint=SOT23_3 New Footprint=SOT23_5
+Change Component Comment : Designator=U1 Old Comment=662K-3.3 New Comment=SPX3819M5-L
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Change Component Designator: OldDesignator=C3 NewDesignator=C2
+Added Pin To Net: NetName=+5 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=VDD Pin=U1-5
+Added Room: Name=Sheet

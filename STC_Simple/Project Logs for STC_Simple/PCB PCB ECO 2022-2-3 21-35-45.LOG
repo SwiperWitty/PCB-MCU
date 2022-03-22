@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=U3 NewDesignator=U4
+Added Component: Designator=J1(XH2.54-WI-4P)
+Added Component: Designator=U3(TO_92B)
+Added Pin To Net: NetName=SDA Pin=J1-1
+Added Pin To Net: NetName=SCL Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=VCC Pin=J1-4
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=VCC Pin=U3-3
+Added Pin To Net: NetName=DQ Pin=MCU1-13
+Added Pin To Net: NetName=DQ Pin=U3-2
+Added Net: Name=DQ
+Added Member To Class: ClassName=Sheet Member=Component J1 IIC
+Added Member To Class: ClassName=Sheet Member=Component U4 JQ8900
+Added Room: Name=Sheet

@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=VDD Pin=U3-4
+Change Component Designator: OldDesignator=C13 NewDesignator=C14
+Change Component Designator: OldDesignator=R8 NewDesignator=R9
+Added Component: Designator=C13(CAP_0603)
+Added Component: Designator=R8(RESC_0603_2)
+Added Pin To Net: NetName=Touch Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=VDD Pin=R8-2
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=U3-4
+Added Net: Name=NetR8_1
+Added Member To Class: ClassName=MCU Member=Component C14 4.7uF
+Added Member To Class: ClassName=MCU Member=Component R9 4.7K
+Added Room: Name=MCU

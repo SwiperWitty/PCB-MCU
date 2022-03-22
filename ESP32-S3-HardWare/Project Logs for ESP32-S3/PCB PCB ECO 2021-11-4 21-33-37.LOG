@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=BOOT Pin=Q1-3
+Removed Pin From Net: NetName=BOOT Pin=Q2-3
+Removed Pin From Net: NetName=BOOT Pin=U1-3
+Removed Pin From Net: NetName=BOOT Pin=U1-27
+Change Net Name : Old Net Name=BOOT New Net Name=GND
+Added Pin To Net: NetName=BOOT Pin=K1-1
+Added Pin To Net: NetName=BOOT Pin=Q2-3
+Added Pin To Net: NetName=BOOT Pin=R5-1
+Added Pin To Net: NetName=BOOT Pin=U1-27
+Added Net: Name=BOOT
+Added Pin To Net: NetName=EN Pin=K2-1
+Added Pin To Net: NetName=EN Pin=Q1-3
+Added Pin To Net: NetName=EN Pin=R6-1
+Added Pin To Net: NetName=EN Pin=U1-3
+Added Net: Name=EN
+Added Room: Name=hardware

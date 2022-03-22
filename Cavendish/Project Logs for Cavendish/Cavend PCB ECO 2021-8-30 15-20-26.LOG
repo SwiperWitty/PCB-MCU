@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=BOOT0 Pin=R5-7
+Removed Pin From Net: NetName=GND Pin=R5-8
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Change Component Designator: OldDesignator=R8 NewDesignator=R9
+Added Component: Designator=R5(RESC_0603_2)
+Added Pin To Net: NetName=BOOT0 Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=VDD Pin=R6-8
+Change Net Name : Old Net Name=NetR7_2 New Net Name=NetR8_2
+Added Member To Class: ClassName=MCU Member=Component R9 Res2
+Added Room: Name=MCU

@@ -1,0 +1,57 @@
+Added Component: Designator=J2(BTB_Double_30Pin_Up)
+Added Component: Designator=J3(BTB_Double_30Pin_Up)
+Added Pin To Net: NetName=TM1_CH2 Pin=J2-2
+Added Pin To Net: NetName=TM1_CH1 Pin=J2-3
+Added Pin To Net: NetName=TM8_CH4 Pin=J2-4
+Added Pin To Net: NetName=TM8_CH3 Pin=J2-5
+Added Pin To Net: NetName=TM8_CH2 Pin=J2-6
+Added Pin To Net: NetName=TM8_CH1 Pin=J2-7
+Added Pin To Net: NetName=MOSI_2 Pin=J2-8
+Added Pin To Net: NetName=MISO_2 Pin=J2-9
+Added Pin To Net: NetName=SCK_2 Pin=J2-10
+Added Pin To Net: NetName=NSS_2 Pin=J2-11
+Added Pin To Net: NetName=NSS_2_2 Pin=J2-12
+Added Pin To Net: NetName=NSS_2_3 Pin=J2-13
+Added Pin To Net: NetName=GND Pin=J2-15
+Added Pin To Net: NetName=GND Pin=J2-16
+Added Pin To Net: NetName=PC13 Pin=J2-17
+Added Pin To Net: NetName=TM4_CH4 Pin=J2-18
+Added Pin To Net: NetName=TM4_CH3 Pin=J2-19
+Added Pin To Net: NetName=TM4_CH2 Pin=J2-20
+Added Pin To Net: NetName=TM4_CH1 Pin=J2-21
+Added Pin To Net: NetName=M2_N2 Pin=J2-22
+Added Pin To Net: NetName=M2_N1 Pin=J2-23
+Added Pin To Net: NetName=TM2_CH2 Pin=J2-24
+Added Pin To Net: NetName=M1_N2 Pin=J2-25
+Added Pin To Net: NetName=M1_N1 Pin=J2-26
+Added Pin To Net: NetName=PC11 Pin=J2-27
+Added Pin To Net: NetName=PC10 Pin=J2-28
+Added Pin To Net: NetName=TM2_CH1 Pin=J2-29
+Added Pin To Net: NetName=+5 Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=SDA_2 Pin=J3-3
+Added Pin To Net: NetName=SCL_2 Pin=J3-4
+Added Pin To Net: NetName=BOOT1 Pin=J3-5
+Added Pin To Net: NetName=A4988_STEP Pin=J3-6
+Added Pin To Net: NetName=A4988_DIR Pin=J3-7
+Added Pin To Net: NetName=TM3_CH2 Pin=J3-10
+Added Pin To Net: NetName=TM3_CH1 Pin=J3-11
+Added Pin To Net: NetName=DAC_OUT2 Pin=J3-12
+Added Pin To Net: NetName=DAC_OUT1 Pin=J3-13
+Added Pin To Net: NetName=GND Pin=J3-14
+Added Pin To Net: NetName=+5 Pin=J3-15
+Added Pin To Net: NetName=+5 Pin=J3-16
+Added Pin To Net: NetName=GND Pin=J3-17
+Added Pin To Net: NetName=M3_N1 Pin=J3-18
+Added Pin To Net: NetName=M3_N2 Pin=J3-19
+Added Pin To Net: NetName=M4_N1 Pin=J3-20
+Added Pin To Net: NetName=M4_N2 Pin=J3-21
+Added Pin To Net: NetName=TM5_CH1 Pin=J3-25
+Added Pin To Net: NetName=TM5_CH2 Pin=J3-26
+Added Pin To Net: NetName=UART-TXD2 Pin=J3-27
+Added Pin To Net: NetName=UART-RXD2 Pin=J3-28
+Added Pin To Net: NetName=GND Pin=J3-29
+Added Pin To Net: NetName=+5 Pin=J3-30
+Added Member To Class: ClassName=MCU Member=Component J2 30PIN
+Added Member To Class: ClassName=MCU Member=Component J3 30PIN
+Added Room: Name=MCU

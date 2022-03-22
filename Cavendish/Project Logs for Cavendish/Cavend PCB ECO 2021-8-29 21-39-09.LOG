@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=D1 Old Footprint=Diode_SMA New Footprint=DIODE_SOD123
+Added Room: Name=MCU

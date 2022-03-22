@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=J2-31
+Added Pin To Net: NetName=VDD Pin=J2-31
+Added Room: Name=Sheet

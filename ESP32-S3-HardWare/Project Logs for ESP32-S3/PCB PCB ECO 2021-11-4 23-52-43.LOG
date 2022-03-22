@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=COM1-A
+Removed Pin From Net: NetName=DP Pin=COM1-B6
+Removed Pin From Net: NetName=DN Pin=COM1-B7
+Removed Pin From Net: NetName=GND Pin=COM1-B
+Removed Pin From Net: NetName=GND Pin=COM1-C
+Removed Pin From Net: NetName=GND Pin=COM1-D
+Removed Pin From Net: NetName=DP Pin=SW1-2
+Removed Pin From Net: NetName=IO20 Pin=SW1-3
+Removed Pin From Net: NetName=DN Pin=SW1-5
+Removed Pin From Net: NetName=IO19 Pin=SW1-6
+Removed Member From Class: ClassName=hardware Member=SW1
+Added Pin To Net: NetName=IO20 Pin=COM1-B6
+Added Pin To Net: NetName=IO19 Pin=COM1-B7
+Added Pin To Net: NetName=DP Pin=U4-5
+Added Pin To Net: NetName=DN Pin=U4-6
+Added Room: Name=hardware

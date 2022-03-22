@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=R4 Old Footprint=RESC_0603_2 New Footprint=RES_0402
+Added Member To Class: ClassName=hardware Member=Component C5 4.7uF
+Added Member To Class: ClassName=hardware Member=Component R4 10K
+Added Member To Class: ClassName=hardware Member=Component R5 22R
+Added Member To Class: ClassName=hardware Member=Component R6 10K
+Added Member To Class: ClassName=hardware Member=Component R7 10K

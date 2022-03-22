@@ -1,0 +1,5 @@
+Change Component Comment : Designator=C14 Old Comment=4.7UF New Comment=100NF
+Change Component Comment : Designator=R9 Old Comment=Res2 New Comment=10K
+Change component parameters: Designator = "R9" ("R9"); Footprint = "RESC_0603_2"; UniqueID = "\OWXTESUJ" ("\OWXTESUJ")
+Added Pin To Net: NetName=PC13 Pin=R6-7
+Added Room: Name=MCU

@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=J1 Old Footprint=XH2.54-WI-4P New Footprint=IIC-XH2.54-4PIN
+Added Member To Class: ClassName=Sheet Member=Component U3 DS18B20
+Added Room: Name=Sheet

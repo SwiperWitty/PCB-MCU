@@ -1,0 +1,14 @@
+Added Pin To Net: NetName=IO1 Pin=J1-2
+Added Pin To Net: NetName=IO47 Pin=J1-18
+Added Pin To Net: NetName=IO48 Pin=J1-19
+Added Pin To Net: NetName=IO45 Pin=J1-20
+Added Pin To Net: NetName=IO35 Pin=J1-21
+Added Pin To Net: NetName=IO36 Pin=J1-22
+Added Pin To Net: NetName=IO37 Pin=J1-23
+Added Pin To Net: NetName=IO38 Pin=J1-24
+Added Pin To Net: NetName=IO39 Pin=J1-25
+Added Pin To Net: NetName=IO40 Pin=J1-26
+Added Pin To Net: NetName=IO41 Pin=J1-27
+Added Pin To Net: NetName=IO42 Pin=J1-28
+Added Pin To Net: NetName=IO2 Pin=J1-29
+Added Room: Name=hardware

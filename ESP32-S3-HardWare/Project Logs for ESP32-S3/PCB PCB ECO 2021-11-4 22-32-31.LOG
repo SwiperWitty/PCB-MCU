@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=LED1 Old Footprint=C0806 New Footprint=LED_0603_R
+Added Pin To Net: NetName=IO41 Pin=U2-8
+Added Pin To Net: NetName=IO40 Pin=U2-9
+Added Pin To Net: NetName=IO38 Pin=U2-10
+Added Room: Name=hardware

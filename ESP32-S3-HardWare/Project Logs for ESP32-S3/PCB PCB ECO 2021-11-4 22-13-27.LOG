@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=COM1 Old Footprint=USB-Type-C_16A New Footprint=USB-tYPE_C_C
+Added Pin To Net: NetName=GND Pin=COM1-1
+Added Pin To Net: NetName=GND Pin=COM1-2
+Added Pin To Net: NetName=GND Pin=COM1-3
+Added Pin To Net: NetName=GND Pin=COM1-4
+Added Room: Name=hardware

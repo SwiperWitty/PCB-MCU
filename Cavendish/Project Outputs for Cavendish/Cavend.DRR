@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Cavend.PcbDoc   2021/10/25  15:59:23
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Cavend-RoundHoles.TXT
+ASCII SlotHoles File : Cavend-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             57        PTH        0.00inch (0.00mm)
+T2      16mil (0.406mm)                                           Round             11        PTH        0.00inch (0.00mm)
+T3      28mil (0.7mm)                                             Round             4         PTH        0.00inch (0.00mm)
+T4      28mil (0.7mm)                                             Slot              4         PTH        0.00inch (0.00mm)
+T5      79mil (2mm)                                               Round             1         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              77
+
+Total Processing Time (hh:mm:ss) : 00:00:01

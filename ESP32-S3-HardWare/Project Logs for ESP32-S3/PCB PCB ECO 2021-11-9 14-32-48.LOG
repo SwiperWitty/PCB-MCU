@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=IO19 Pin=COM1-A6
+Removed Pin From Net: NetName=IO20 Pin=COM1-A7
+Removed Pin From Net: NetName=DN Pin=COM1-B6
+Removed Pin From Net: NetName=DP Pin=COM1-B7
+Added Pin To Net: NetName=IO20 Pin=COM1-A6
+Added Pin To Net: NetName=IO19 Pin=COM1-A7
+Added Pin To Net: NetName=DP Pin=COM1-B6
+Added Pin To Net: NetName=DN Pin=COM1-B7
+Added Room: Name=hardware

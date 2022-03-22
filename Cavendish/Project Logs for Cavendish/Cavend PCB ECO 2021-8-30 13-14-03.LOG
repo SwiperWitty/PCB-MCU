@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=TM5_CH2 Pin=J3-20
+Removed Pin From Net: NetName=TM5_CH1 Pin=J3-21
+Added Pin To Net: NetName=TM5_CH1 Pin=J3-20
+Added Pin To Net: NetName=TM5_CH2 Pin=J3-21
+Added Room: Name=MCU

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=Trig Pin=MCU1-1
+Removed Pin From Net: NetName=Echo Pin=MCU1-2
+Removed Pin From Net: NetName=SPK- Pin=P8-1
+Removed Pin From Net: NetName=SPK+ Pin=P8-2
+Change Component Footprint: Designator=C2 Old Footprint=CAP_PR_2.5_8 New Footprint=CAP_PR_2.5_6.3_RA
+Added Pin To Net: NetName=Echo Pin=MCU1-1
+Added Pin To Net: NetName=Trig Pin=MCU1-2
+Added Pin To Net: NetName=SPK+ Pin=P8-1
+Added Pin To Net: NetName=SPK- Pin=P8-2
+Added Room: Name=Sheet

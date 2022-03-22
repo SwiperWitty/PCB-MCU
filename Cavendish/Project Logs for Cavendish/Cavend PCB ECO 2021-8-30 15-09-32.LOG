@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=PC13 Pin=R5-1
+Removed Pin From Net: NetName=PC10 Pin=R5-5
+Added Pin To Net: NetName=PC10 Pin=R5-1
+Added Pin To Net: NetName=PC13 Pin=R5-5
+Added Member To Class: ClassName=MCU Member=Component KEY1 KEY

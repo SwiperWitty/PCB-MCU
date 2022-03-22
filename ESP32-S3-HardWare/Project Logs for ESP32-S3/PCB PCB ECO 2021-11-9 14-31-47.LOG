@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=DP Pin=COM1-A6
+Removed Pin From Net: NetName=DN Pin=COM1-A7
+Removed Pin From Net: NetName=IO20 Pin=COM1-B6
+Removed Pin From Net: NetName=IO19 Pin=COM1-B7
+Added Pin To Net: NetName=IO19 Pin=COM1-A6
+Added Pin To Net: NetName=IO20 Pin=COM1-A7
+Added Pin To Net: NetName=DN Pin=COM1-B6
+Added Pin To Net: NetName=DP Pin=COM1-B7
+Added Member To Class: ClassName=hardware Member=Component C6 100NF
+Added Member To Class: ClassName=hardware Member=Component C7 4.7uF
+Added Member To Class: ClassName=hardware Member=Component R4 10K
+Added Member To Class: ClassName=hardware Member=Component R5 10K
+Added Member To Class: ClassName=hardware Member=Component R6 4.7K
+Added Member To Class: ClassName=hardware Member=Component R7 10K
+Added Member To Class: ClassName=hardware Member=Component R8 10K
+Added Room: Name=hardware

@@ -1,0 +1,5 @@
+Change Component Comment : Designator=R7 Old Comment=1K New Comment=2K
+Change Component Comment : Designator=R9 Old Comment=10K New Comment=4.7K
+Change Component Comment : Designator=R8 Old Comment=10R New Comment=20R
+Change Component Comment : Designator=C14 Old Comment=100NF New Comment=4.7uF
+Added Member To Class: ClassName=MCU Member=Component R8 20R

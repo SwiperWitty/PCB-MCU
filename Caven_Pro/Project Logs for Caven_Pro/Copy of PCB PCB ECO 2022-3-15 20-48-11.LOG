@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=CH_TXD Pin=MCU1-53
+Removed Pin From Net: NetName=CH_RXD Pin=MCU1-54
+Added Pin To Net: NetName=CH_RXD Pin=MCU1-53
+Added Pin To Net: NetName=CH_TXD Pin=MCU1-54
+Added Room: Name=Sheet

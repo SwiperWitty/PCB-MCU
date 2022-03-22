@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=U1-4
+Added Member To Class: ClassName=Sheet Member=Component C15 100NF
+Added Room: Name=Sheet

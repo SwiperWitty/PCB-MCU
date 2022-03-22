@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=M3_N1 Pin=J3-18
+Removed Pin From Net: NetName=M3_N2 Pin=J3-19
+Removed Pin From Net: NetName=M4_N1 Pin=J3-20
+Removed Pin From Net: NetName=M4_N2 Pin=J3-21
+Removed Pin From Net: NetName=TM5_CH1 Pin=J3-25
+Removed Pin From Net: NetName=TM5_CH2 Pin=J3-26
+Removed Pin From Net: NetName=UART-TXD2 Pin=J3-27
+Removed Pin From Net: NetName=UART-RXD2 Pin=J3-28
+Added Pin To Net: NetName=UART-RXD2 Pin=J3-18
+Added Pin To Net: NetName=UART-TXD2 Pin=J3-19
+Added Pin To Net: NetName=TM5_CH2 Pin=J3-20
+Added Pin To Net: NetName=TM5_CH1 Pin=J3-21
+Added Pin To Net: NetName=M3_N1 Pin=J3-24
+Added Pin To Net: NetName=M3_N2 Pin=J3-25
+Added Pin To Net: NetName=M4_N1 Pin=J3-26
+Added Pin To Net: NetName=M4_N2 Pin=J3-27
+Added Room: Name=MCU

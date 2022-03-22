@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: E:\PCB\Cavendish\Cavend.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=cavend-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=cavend-slotholes.txt|DrillLayers=gtl,gbl

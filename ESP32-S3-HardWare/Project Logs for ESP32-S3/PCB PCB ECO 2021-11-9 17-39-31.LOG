@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=VDD Pin=R1-2
+Added Pin To Net: NetName=VBUS Pin=R1-2
+Added Room: Name=hardware

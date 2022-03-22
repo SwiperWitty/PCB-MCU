@@ -1,0 +1,9 @@
+Added Component: Designator=U3(SOT-23-6)
+Added Pin To Net: NetName=PC13 Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=Touch Pin=U3-3
+Added Pin To Net: NetName=VDD Pin=U3-4
+Added Pin To Net: NetName=VDD Pin=U3-5
+Added Pin To Net: NetName=GND Pin=U3-6
+Added Member To Class: ClassName=MCU Member=Component U3 TTP223
+Added Room: Name=MCU
