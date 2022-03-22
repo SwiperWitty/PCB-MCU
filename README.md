@@ -1,8 +1,8 @@
 # PCB-MCU
 
-**MCU-Core_board**
+**MCU-Core board**
 
-# Cavendish
+# Cavendish(卡文迪许)
 
 - ##  STM32
 
