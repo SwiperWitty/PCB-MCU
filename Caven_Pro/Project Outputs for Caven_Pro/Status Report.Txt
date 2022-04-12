@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Caven_Pro.PrjPcb]
+   Generated File[Copy of PCB1-RoundHoles.TXT]
+   Generated File[Copy of PCB1-SlotHoles.TXT]
+   Generated File[Copy of PCB1.LDP]
+   Generated File[Copy of PCB1.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 13:27:34 On 2022/3/29

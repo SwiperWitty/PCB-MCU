@@ -1,0 +1,44 @@
+out:E:\PCB\PCB-MCU\Caven_Pro
+run method:extractFootprints
+pcblibsPath:D:\ShareAD\Library\PCB-Lib\User.PcbLib
+pcb out:------------------------------------
+pcbPath:E:\PCB\PCB-MCU\Caven_Pro\User.pcbDoc
+tempPath:E:\PCB\PCB-MCU\Caven_Pro\1649677967000.pcbDoc
+pcblibsPath:D:\ShareAD\Library\Miscellaneous C_nn.PcbLib
+pcb out:------------------------------------
+pcbPath:E:\PCB\PCB-MCU\Caven_Pro\Miscellaneous C_nn.pcbDoc
+tempPath:E:\PCB\PCB-MCU\Caven_Pro\1649677999000.pcbDoc
+pcblibsPath:D:\ShareAD\Library\Miscellaneous D_v_s.PcbLib
+pcb out:------------------------------------
+pcbPath:E:\PCB\PCB-MCU\Caven_Pro\Miscellaneous D_v_s.pcbDoc
+tempPath:E:\PCB\PCB-MCU\Caven_Pro\1649678078000.pcbDoc
+pcblibsPath:D:\ShareAD\Library\Miscellaneous H_d.PcbLib
+pcb out:------------------------------------
+pcbPath:E:\PCB\PCB-MCU\Caven_Pro\Miscellaneous H_d.pcbDoc
+tempPath:E:\PCB\PCB-MCU\Caven_Pro\1649678117000.pcbDoc
+pcblibsPath:D:\ShareAD\Library\元件1.PcbLib
+pcb out:------------------------------------
+pcbPath:E:\PCB\PCB-MCU\Caven_Pro\元件1.pcbDoc
+tempPath:E:\PCB\PCB-MCU\Caven_Pro\1649678141000.pcbDoc
+pcblibsPath:D:\ShareAD\Library\元件2.PcbLib
+pcb out:------------------------------------
+pcbPath:E:\PCB\PCB-MCU\Caven_Pro\元件2.pcbDoc
+tempPath:E:\PCB\PCB-MCU\Caven_Pro\1649678207000.pcbDoc
+intlibsPath:D:\ShareAD\Library\Miscellaneous Devices.IntLib
+_libPath:D:\ShareAD\Library\Miscellaneous Devices\Miscellaneous Devices.PcbLib
+pcb out:------------------------------------
+pcbPath:E:\PCB\PCB-MCU\Caven_Pro\Miscellaneous Devices.pcbDoc
+tempPath:E:\PCB\PCB-MCU\Caven_Pro\1649678257000.pcbDoc
+intlibsPath:D:\ShareAD\Library\Miscellaneous Connectors.IntLib
+_libPath:D:\ShareAD\Library\Miscellaneous Connectors\Miscellaneous Connectors.PcbLib
+pcb out:------------------------------------
+pcbPath:E:\PCB\PCB-MCU\Caven_Pro\Miscellaneous Connectors.pcbDoc
+tempPath:E:\PCB\PCB-MCU\Caven_Pro\1649678362000.pcbDoc
+intlibsPath:D:\ShareAD\Library\stcmcu_Altium142_IntLib\stcmcu_altium_lib.IntLib
+_libPath:D:\ShareAD\Library\stcmcu_Altium142_IntLib\stcmcu_altium_lib\stcmcu_altium142.PcbLib
+pcb out:------------------------------------
+pcbPath:E:\PCB\PCB-MCU\Caven_Pro\stcmcu_altium_lib.pcbDoc
+tempPath:E:\PCB\PCB-MCU\Caven_Pro\1649678421000.pcbDoc
+out:E:\PCB\PCB-MCU\Caven_Pro
+run method:extractSymbols
+schlibsPath:D:\ShareAD\Library\PCB-Lib\User.SchLib
