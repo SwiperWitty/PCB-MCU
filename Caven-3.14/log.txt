@@ -1,2 +1,2 @@
-ascii:E:\PCB\PCB-MCU\Caven_Pro\output\Sheet_ascii.schDoc
-ascii:E:\PCB\PCB-MCU\Caven_Pro\output\Copy of PCB1_ascii.pcbDoc
+ascii:E:\PCB\PCB-MCU\Caven-3.14\output\Sheet_ascii.schDoc
+ascii:E:\PCB\PCB-MCU\Caven-3.14\output\Copy of PCB1_ascii.pcbDoc
