@@ -4,6 +4,8 @@
 
 # Cavendish(卡文迪许)
 
+STM32 -> 3.0 & 3.14 CORE Software in [here](https://github.com/SwiperWiity/Core-STM32) !
+
 - ##  STM32
 
 #### STM32F103RCT6/GD32
