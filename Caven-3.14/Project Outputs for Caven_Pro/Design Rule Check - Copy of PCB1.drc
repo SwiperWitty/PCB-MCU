@@ -1,0 +1,64 @@
+Protel Design System Design Rule Check
+PCB File : E:\PCB\PCB-MCU\Caven-3.14\Copy of PCB1.PcbDoc
+Date     : 2022/4/23
+Time     : 23:56:19
+
+Processing Rule : Clearance Constraint (Gap=7mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=50mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=400mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=1mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+   Violation between Net Antennae: Track (4443mil,3268.323mil)(4563mil,3268.323mil) on Top Layer 
+   Violation between Net Antennae: Track (4462.258mil,3227.581mil)(4522.258mil,3227.581mil) on Top Layer 
+   Violation between Net Antennae: Track (4462.258mil,3309.065mil)(4522.258mil,3309.065mil) on Top Layer 
+   Violation between Net Antennae: Track (4481.516mil,3186.839mil)(4563mil,3268.323mil) on Top Layer 
+   Violation between Net Antennae: Track (4481.516mil,3349.807mil)(4522.258mil,3309.065mil) on Top Layer 
+   Violation between Net Antennae: Track (4522.258mil,3167.581mil)(4522.258mil,3227.581mil) on Top Layer 
+   Violation between Net Antennae: Track (4522.258mil,3309.065mil)(4522.258mil,3369.065mil) on Top Layer 
+   Violation between Net Antennae: Track (4563mil,3148.323mil)(4563mil,3268.323mil) on Top Layer 
+   Violation between Net Antennae: Track (4563mil,3268.323mil)(4563mil,3388.323mil) on Top Layer 
+   Violation between Net Antennae: Track (4563mil,3268.323mil)(4644.484mil,3186.839mil) on Top Layer 
+   Violation between Net Antennae: Track (4563mil,3268.323mil)(4644.484mil,3349.807mil) on Top Layer 
+   Violation between Net Antennae: Track (4563mil,3268.323mil)(4683mil,3268.323mil) on Top Layer 
+   Violation between Net Antennae: Track (4603.742mil,3167.581mil)(4603.742mil,3227.581mil) on Top Layer 
+   Violation between Net Antennae: Track (4603.742mil,3227.581mil)(4663.742mil,3227.581mil) on Top Layer 
+   Violation between Net Antennae: Track (4613mil,3318.323mil)(4613mil,3378.323mil) on Top Layer 
+   Violation between Net Antennae: Track (4613mil,3318.323mil)(4673mil,3318.323mil) on Top Layer 
+Rule Violations :16
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 16
+Waived Violations : 0
+Time Elapsed        : 00:00:01
