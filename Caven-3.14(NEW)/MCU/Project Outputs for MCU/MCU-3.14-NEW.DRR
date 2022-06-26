@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: MCU-3.14-NEW.PcbDoc   2022/6/26  20:02:43
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : MCU-3.14-NEW-RoundHoles.TXT
+ASCII SlotHoles File : MCU-3.14-NEW-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.305mm)                                           Round             65        PTH        9.58inch (243.25mm)
+T2      26mil (0.65mm)                                            Round             2         PTH        0.23inch (5.78mm)
+T3      28mil (0.701mm)                                           Slot              2         PTH        0.77inch (19.55mm)
+T4      32mil (0.8mm)                                             Slot              2         PTH        0.74inch (18.92mm)
+T5      78mil (1.981mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T6      55mil (1.4mm)                                             Round             4         NPTH       3.15inch (80.10mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              76
+
+Total Processing Time (hh:mm:ss) : 00:00:00

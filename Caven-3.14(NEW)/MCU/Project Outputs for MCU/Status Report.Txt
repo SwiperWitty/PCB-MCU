@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [MCU.PrjPcb]
+   Generated File[MCU-3.14-NEW-RoundHoles.TXT]
+   Generated File[MCU-3.14-NEW-SlotHoles.TXT]
+   Generated File[MCU-3.14-NEW.LDP]
+   Generated File[MCU-3.14-NEW.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 20:02:43 On 2022/6/26

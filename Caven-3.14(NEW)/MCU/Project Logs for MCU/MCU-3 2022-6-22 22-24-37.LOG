@@ -1,0 +1,6 @@
+Added Component: Designator=K1(KEY_SMD-4P)
+Added Pin To Net: NetName=GND Pin=K1-1
+Added Pin To Net: NetName=GND Pin=K1-1
+Added Pin To Net: NetName=NRST Pin=K1-2
+Added Pin To Net: NetName=NRST Pin=K1-2
+Added Member To Class: ClassName=Sheet1 Member=Component K1 KEY

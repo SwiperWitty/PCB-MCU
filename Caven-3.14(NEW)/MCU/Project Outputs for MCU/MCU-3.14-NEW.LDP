@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: E:\ÐÇ³½´óº£\Hardwrae\PCB-MCU\Caven-3.14(NEW)\MCU\MCU-3.14-NEW.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=mcu-3.14-new-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=mcu-3.14-new-slotholes.txt|DrillLayers=gtl,gbl
